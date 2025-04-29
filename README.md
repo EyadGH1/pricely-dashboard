@@ -1,1 +1,1 @@
-a clean dashboard with an integrated chatbot 
+a clean raect dashboard with an integrated chatbot 
