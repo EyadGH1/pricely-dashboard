@@ -1,0 +1,1 @@
+a clean dashboard with an integrated chatbot 
